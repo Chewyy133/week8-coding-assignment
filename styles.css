@@ -1,0 +1,66 @@
+body {
+    background-color: black;
+}
+
+div {
+    font-size: 20px;
+}
+
+h1 {
+    color: deepskyblue;
+}
+
+h3 {
+    color: deepskyblue;
+}
+
+div {
+    background-color: #292f33;
+    border-style: ridge;
+    border-radius: 5px;
+}
+
+#paragraph{
+    color: white;
+    background-color: #292f33;
+    border-style: ridge;
+    border-radius: 5px;
+    text-shadow: 1px;
+    font-size: 35px;
+}
+
+.height{
+    height: 500px;
+}
+
+table {
+    color: white;
+    background-color: #292f33;
+    border-collapse: collapse;
+    width: 50%;
+}
+
+th, td {
+    color: white;
+    padding: 8px;
+    text-align: center;
+    border-bottom: 1px solid black;
+    border-style: ridge;
+    border-radius: 5px;
+}
+
+ul {
+    color: white;
+    background-color: #292f33;
+    border-style: ridge;
+    border-radius: 5px;
+}
+
+b {
+    background-color: #292f33;
+    border-style: ridge;
+    border-radius: 5px;
+    text-shadow: 1px;
+    font-size: 35px;
+    font-family: Arial, Helvetica, sans-serif;
+}
